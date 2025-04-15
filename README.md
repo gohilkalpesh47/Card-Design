@@ -1,3 +1,3 @@
 # Card-Design
-my Project: Card Design
-author:Gohil Kalpesh
+my Project: Card Design<br>
+Author:Gohil Kalpesh
